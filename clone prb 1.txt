@@ -1,0 +1,17 @@
+Microsoft Windows [Version 10.0.19045.3086]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\ADMIN>https://github.com/Madhu9025/project-1.git
+'https:' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\ADMIN>git clone https://github.com/Madhu9025/project-1.git
+Cloning into 'project-1'...
+remote: Enumerating objects: 62, done.
+remote: Counting objects: 100% (62/62), done.
+remote: Compressing objects: 100% (54/54), done.
+remote: Total 62 (delta 9), reused 50 (delta 7), pack-reused 0
+Receiving objects: 100% (62/62), 1.51 MiB | 834.00 KiB/s, done.
+Resolving deltas: 100% (9/9), done.
+
+C:\Users\ADMIN>
